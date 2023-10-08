@@ -1,0 +1,12 @@
+
+Catalog for BIGCALCS
+
+BIGCALC  C      46549   8-13-88  Main Module and Calculator Logic
+BIGCALC  H      14275   8-13-88  Global Constants & Function Prototypes
+BIGGVAR  H       2565   8-13-88  External Global Variables
+BIGIO    C      23587   8-13-88  Low Level I/O Routines
+BIGMATH  C      89754   8-13-88  Extended Precision Math Routines
+BIGMISC  C      66767   8-13-88  Extended Precision Support Routines
+BIGPRINT C      31908   8-13-88  Printing and Help Screen Routines
+README           1100   8-13-88  Info on compiling BIGCALC
+

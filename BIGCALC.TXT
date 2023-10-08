@@ -1,0 +1,40 @@
+
+
+                          BIGCALC SOURCE
+
+
+  This is the source for BIGCALC Extended Precision Calculator. 
+  BIGCALC compiles under the small model. BIGCALC compiles with
+  no changes using MSC 5.1 and QuickC 1.0.
+
+
+  To compile BIGCALC with Microsoft C 5.1 use the following command:
+
+        cl -Ox bigcalc.c bigio.c bigmath.c bigmisc.c bigprint.c
+
+
+  For QuickC 1.0:
+
+        qcl -Ox bigcalc.c bigio.c bigmath.c bigmisc.c bigprint.c
+
+
+  To compile BIGCALC for OS/2 protected mode edit file BIGCALC.H and
+  remove this line:
+
+        #define REALMODE        /* Remove for OS/2 protected mode */
+
+
+  If you make any changes or enhancements in BIGCALC, please share
+  them with me.  Also, please let me know if you find any problems.  
+  If you like BIGCALC, please send $20 to the address below:
+
+
+                       Judson D. McClendon
+                       Sun Valley Systems
+                       329 37th Court N.E.
+                       Birmingham, AL 35220
+
+                          205-853-8440
+
+                       Compuserve 74415,1003
+
