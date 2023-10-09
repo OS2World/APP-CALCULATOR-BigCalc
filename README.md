@@ -11,7 +11,7 @@ COMPILE TOOLS
 
 AUTHORS
 ===============
-* 
+* Judson D. McClendon
 
 LINKS
 ===============
